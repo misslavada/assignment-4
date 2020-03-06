@@ -1,0 +1,15 @@
+#allBtns {
+  padding-left: 55px;
+}
+.calc {
+    background-color: #678ed4;
+    width:300px;
+    align-items: center;
+    align-content: center;
+    margin-left: 40%;
+    font-size: 5em;
+    font-weight: bold;
+}
+#result {
+  margin-left: 65px;
+}
